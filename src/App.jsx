@@ -127,6 +127,7 @@ function App() {
           gap: "5px",
           borderRadius: "10px",
           backgroundColor: "whitesmoke",
+          boxShadow: "3",
           padding: "10px 20px"
         }} key={ind}>
          
@@ -136,6 +137,7 @@ function App() {
             height: "250px",
             borderRadius: "10px",
             objectFit: "cover",
+            boxShadow: "2",
             overflow: "hidden"
           }}>
           <img 
@@ -168,6 +170,7 @@ function App() {
           gap: "5px",
           borderRadius: "10px",
           backgroundColor: "whitesmoke",
+          boxShadow: "3",
           padding: "10px 20px"
         }} key={ind}>
          
@@ -177,6 +180,7 @@ function App() {
             height: "250px",
             borderRadius: "10px",
             objectFit: "cover",
+            boxShadow: "2",
             overflow: "hidden"
           }}>
           <img 
@@ -209,6 +213,7 @@ function App() {
           gap: "5px",
           borderRadius: "10px",
           backgroundColor: "whitesmoke",
+          boxShadow: "3",
           padding: "10px 20px"
         }} key={ind}>
          
@@ -218,6 +223,7 @@ function App() {
             height: "250px",
             borderRadius: "10px",
             objectFit: "cover",
+            boxShadow: "2",
             overflow: "hidden"
           }}>
           <img 
